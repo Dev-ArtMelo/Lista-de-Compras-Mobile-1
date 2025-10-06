@@ -1,0 +1,260 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\GAMER\Desktop\ListaDeComprasApp\app\src\main\AndroidManifest.xml:1:1-24:12
+INJECTED from C:\Users\GAMER\Desktop\ListaDeComprasApp\app\src\main\AndroidManifest.xml:1:1-24:12
+INJECTED from C:\Users\GAMER\Desktop\ListaDeComprasApp\app\src\main\AndroidManifest.xml:1:1-24:12
+INJECTED from C:\Users\GAMER\Desktop\ListaDeComprasApp\app\src\main\AndroidManifest.xml:1:1-24:12
+MERGED from [androidx.databinding:viewbinding:8.13.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\5971b89156eb778a5d3d174afb2355f5\transformed\jetified-viewbinding-8.13.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\cbef2f912b336a1ad6390397a78ddb94\transformed\material-1.9.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\GAMER\.gradle\caches\8.13\transforms\9cd272ff68630af6c9481e211d3ef7c0\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\4851466b1003fe9875eef27b06276eb6\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\c41cc3c0ff7938880676355edf2b0fa7\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\fd1e226e7b6ecc0c0612747cc4372ee8\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\2f4ebb82f144e3d3f5b88a0c97cd632b\transformed\recyclerview-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\GAMER\.gradle\caches\8.13\transforms\65acb07b374e0afe10cf1de4d739792b\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\1025a35252f15e403a312f0c69c79dc2\transformed\jetified-activity-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\e1ca37bc90134c4847f863d02b9a471a\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\d529981379adb128432c3bd53ac1cf38\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\d5d94a265bdb293e2e256eb1679923b2\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\b351b185284f90b56cbad8022f4b97c7\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\58796223b868d3934f1bfb2e32e5492c\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\5f9c49ef7bf48934ad018d450b4eb661\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\70767105aa92fd6ce7695cd016645658\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\540a5623b7f2d4b803e9c4a5bc1eedb2\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\f58c7231e498410f7f29f81e9464e5b3\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\bffeb27282b0991f380bdb4aae80087b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\c9be8e53d72ce3f97b9db751fe6cb9df\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\ae4d1ec12811b5ff87b4727e99f9399f\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.10.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\32ca633f9c807bf48b5509430aee051b\transformed\core-1.10.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\002bb00a0719d32d2112430f692d9f56\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\55a486599be0e11ca914b12a6c401a33\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\68e5ce02600feb4dc3dea69eba96246e\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\c734b47ac8d4acc1b9a11b145feee6d7\transformed\jetified-core-ktx-1.10.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\4e4771d96f40a1937ddebc880fed7221\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\2bebb959c8b48dab34d561a3c96bf7a9\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\fd088153ba7ff500c2e5d38d81cb871c\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\648c95d7896c6bad69b3a308a6aae7d4\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\0564719d014639ee9115dc4a0c7899d4\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\8ca4bbf5e1a369af98597f0b949fb015\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\037b5b21b7a32327b120a2c73846c51f\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\ae49a89376425b36f9eab4f77e792e72\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\88bb666186d63e9968a9ae652d9fbca0\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\1d51356e211c105051690f73f438a51a\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\7f930644ed3da92b225a71f435ffbde5\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\36cdcc0e5ed4ca4690f6cfffedff99be\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\2fa6dd055baefdc6fd945f6136dc4de0\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\adc6f7091c7217afa257b9498518ee26\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\36526a133379ff2b61f4f2aff4d3ee63\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\abbc40c239cc8625c69827af271ef934\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+	package
+		ADDED from C:\Users\GAMER\Desktop\ListaDeComprasApp\app\src\main\AndroidManifest.xml:2:5-43
+		INJECTED from C:\Users\GAMER\Desktop\ListaDeComprasApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\GAMER\Desktop\ListaDeComprasApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\GAMER\Desktop\ListaDeComprasApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\GAMER\Desktop\ListaDeComprasApp\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from C:\Users\GAMER\Desktop\ListaDeComprasApp\app\src\main\AndroidManifest.xml:4:5-22:19
+INJECTED from C:\Users\GAMER\Desktop\ListaDeComprasApp\app\src\main\AndroidManifest.xml:4:5-22:19
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\cbef2f912b336a1ad6390397a78ddb94\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\cbef2f912b336a1ad6390397a78ddb94\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\GAMER\.gradle\caches\8.13\transforms\9cd272ff68630af6c9481e211d3ef7c0\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\GAMER\.gradle\caches\8.13\transforms\9cd272ff68630af6c9481e211d3ef7c0\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\d529981379adb128432c3bd53ac1cf38\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\d529981379adb128432c3bd53ac1cf38\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.10.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\32ca633f9c807bf48b5509430aee051b\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.10.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\32ca633f9c807bf48b5509430aee051b\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\648c95d7896c6bad69b3a308a6aae7d4\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\648c95d7896c6bad69b3a308a6aae7d4\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\ae49a89376425b36f9eab4f77e792e72\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\ae49a89376425b36f9eab4f77e792e72\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\88bb666186d63e9968a9ae652d9fbca0\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\88bb666186d63e9968a9ae652d9fbca0\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\GAMER\Desktop\ListaDeComprasApp\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.10.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\32ca633f9c807bf48b5509430aee051b\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\GAMER\Desktop\ListaDeComprasApp\app\src\main\AndroidManifest.xml:7:9-35
+	android:label
+		ADDED from C:\Users\GAMER\Desktop\ListaDeComprasApp\app\src\main\AndroidManifest.xml:6:9-45
+	android:allowBackup
+		ADDED from C:\Users\GAMER\Desktop\ListaDeComprasApp\app\src\main\AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from C:\Users\GAMER\Desktop\ListaDeComprasApp\app\src\main\AndroidManifest.xml:8:9-47
+activity#br.com.unaerp.listadecompras.ui.login.LoginActivity
+ADDED from C:\Users\GAMER\Desktop\ListaDeComprasApp\app\src\main\AndroidManifest.xml:9:9-16:20
+	android:exported
+		ADDED from C:\Users\GAMER\Desktop\ListaDeComprasApp\app\src\main\AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from C:\Users\GAMER\Desktop\ListaDeComprasApp\app\src\main\AndroidManifest.xml:10:13-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\GAMER\Desktop\ListaDeComprasApp\app\src\main\AndroidManifest.xml:12:13-15:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\GAMER\Desktop\ListaDeComprasApp\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from C:\Users\GAMER\Desktop\ListaDeComprasApp\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\GAMER\Desktop\ListaDeComprasApp\app\src\main\AndroidManifest.xml:14:17-77
+	android:name
+		ADDED from C:\Users\GAMER\Desktop\ListaDeComprasApp\app\src\main\AndroidManifest.xml:14:27-74
+activity#br.com.unaerp.listadecompras.ui.login.CadastroActivity
+ADDED from C:\Users\GAMER\Desktop\ListaDeComprasApp\app\src\main\AndroidManifest.xml:17:9-63
+	android:name
+		ADDED from C:\Users\GAMER\Desktop\ListaDeComprasApp\app\src\main\AndroidManifest.xml:17:19-60
+activity#br.com.unaerp.listadecompras.ui.list.ListaDeComprasActivity
+ADDED from C:\Users\GAMER\Desktop\ListaDeComprasApp\app\src\main\AndroidManifest.xml:18:9-68
+	android:name
+		ADDED from C:\Users\GAMER\Desktop\ListaDeComprasApp\app\src\main\AndroidManifest.xml:18:19-65
+activity#br.com.unaerp.listadecompras.ui.list.NovaListaActivity
+ADDED from C:\Users\GAMER\Desktop\ListaDeComprasApp\app\src\main\AndroidManifest.xml:19:9-63
+	android:name
+		ADDED from C:\Users\GAMER\Desktop\ListaDeComprasApp\app\src\main\AndroidManifest.xml:19:19-60
+activity#br.com.unaerp.listadecompras.ui.item.ItensActivity
+ADDED from C:\Users\GAMER\Desktop\ListaDeComprasApp\app\src\main\AndroidManifest.xml:20:9-59
+	android:name
+		ADDED from C:\Users\GAMER\Desktop\ListaDeComprasApp\app\src\main\AndroidManifest.xml:20:19-56
+activity#br.com.unaerp.listadecompras.ui.item.NovoItemActivity
+ADDED from C:\Users\GAMER\Desktop\ListaDeComprasApp\app\src\main\AndroidManifest.xml:21:9-62
+	android:name
+		ADDED from C:\Users\GAMER\Desktop\ListaDeComprasApp\app\src\main\AndroidManifest.xml:21:19-59
+uses-sdk
+INJECTED from C:\Users\GAMER\Desktop\ListaDeComprasApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\GAMER\Desktop\ListaDeComprasApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\GAMER\Desktop\ListaDeComprasApp\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.13.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\5971b89156eb778a5d3d174afb2355f5\transformed\jetified-viewbinding-8.13.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.13.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\5971b89156eb778a5d3d174afb2355f5\transformed\jetified-viewbinding-8.13.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\cbef2f912b336a1ad6390397a78ddb94\transformed\material-1.9.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\cbef2f912b336a1ad6390397a78ddb94\transformed\material-1.9.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\GAMER\.gradle\caches\8.13\transforms\9cd272ff68630af6c9481e211d3ef7c0\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\GAMER\.gradle\caches\8.13\transforms\9cd272ff68630af6c9481e211d3ef7c0\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\4851466b1003fe9875eef27b06276eb6\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\4851466b1003fe9875eef27b06276eb6\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\c41cc3c0ff7938880676355edf2b0fa7\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\c41cc3c0ff7938880676355edf2b0fa7\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\fd1e226e7b6ecc0c0612747cc4372ee8\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\fd1e226e7b6ecc0c0612747cc4372ee8\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.3.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\2f4ebb82f144e3d3f5b88a0c97cd632b\transformed\recyclerview-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\2f4ebb82f144e3d3f5b88a0c97cd632b\transformed\recyclerview-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\GAMER\.gradle\caches\8.13\transforms\65acb07b374e0afe10cf1de4d739792b\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\GAMER\.gradle\caches\8.13\transforms\65acb07b374e0afe10cf1de4d739792b\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\1025a35252f15e403a312f0c69c79dc2\transformed\jetified-activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\1025a35252f15e403a312f0c69c79dc2\transformed\jetified-activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\e1ca37bc90134c4847f863d02b9a471a\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\e1ca37bc90134c4847f863d02b9a471a\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\d529981379adb128432c3bd53ac1cf38\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\d529981379adb128432c3bd53ac1cf38\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\d5d94a265bdb293e2e256eb1679923b2\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\d5d94a265bdb293e2e256eb1679923b2\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\b351b185284f90b56cbad8022f4b97c7\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\b351b185284f90b56cbad8022f4b97c7\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\58796223b868d3934f1bfb2e32e5492c\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\58796223b868d3934f1bfb2e32e5492c\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\5f9c49ef7bf48934ad018d450b4eb661\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\5f9c49ef7bf48934ad018d450b4eb661\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\70767105aa92fd6ce7695cd016645658\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\70767105aa92fd6ce7695cd016645658\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\540a5623b7f2d4b803e9c4a5bc1eedb2\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\540a5623b7f2d4b803e9c4a5bc1eedb2\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\f58c7231e498410f7f29f81e9464e5b3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\f58c7231e498410f7f29f81e9464e5b3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\bffeb27282b0991f380bdb4aae80087b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\bffeb27282b0991f380bdb4aae80087b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\c9be8e53d72ce3f97b9db751fe6cb9df\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\c9be8e53d72ce3f97b9db751fe6cb9df\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\ae4d1ec12811b5ff87b4727e99f9399f\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\ae4d1ec12811b5ff87b4727e99f9399f\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.10.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\32ca633f9c807bf48b5509430aee051b\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\32ca633f9c807bf48b5509430aee051b\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\002bb00a0719d32d2112430f692d9f56\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\002bb00a0719d32d2112430f692d9f56\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\55a486599be0e11ca914b12a6c401a33\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\55a486599be0e11ca914b12a6c401a33\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\68e5ce02600feb4dc3dea69eba96246e\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\68e5ce02600feb4dc3dea69eba96246e\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\c734b47ac8d4acc1b9a11b145feee6d7\transformed\jetified-core-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\c734b47ac8d4acc1b9a11b145feee6d7\transformed\jetified-core-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\4e4771d96f40a1937ddebc880fed7221\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\4e4771d96f40a1937ddebc880fed7221\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\2bebb959c8b48dab34d561a3c96bf7a9\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\2bebb959c8b48dab34d561a3c96bf7a9\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\fd088153ba7ff500c2e5d38d81cb871c\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\fd088153ba7ff500c2e5d38d81cb871c\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\648c95d7896c6bad69b3a308a6aae7d4\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\648c95d7896c6bad69b3a308a6aae7d4\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\0564719d014639ee9115dc4a0c7899d4\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\0564719d014639ee9115dc4a0c7899d4\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\8ca4bbf5e1a369af98597f0b949fb015\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\8ca4bbf5e1a369af98597f0b949fb015\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\037b5b21b7a32327b120a2c73846c51f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\037b5b21b7a32327b120a2c73846c51f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\ae49a89376425b36f9eab4f77e792e72\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\ae49a89376425b36f9eab4f77e792e72\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\88bb666186d63e9968a9ae652d9fbca0\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\88bb666186d63e9968a9ae652d9fbca0\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\1d51356e211c105051690f73f438a51a\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\1d51356e211c105051690f73f438a51a\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\7f930644ed3da92b225a71f435ffbde5\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\7f930644ed3da92b225a71f435ffbde5\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\36cdcc0e5ed4ca4690f6cfffedff99be\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\36cdcc0e5ed4ca4690f6cfffedff99be\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\2fa6dd055baefdc6fd945f6136dc4de0\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\2fa6dd055baefdc6fd945f6136dc4de0\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\adc6f7091c7217afa257b9498518ee26\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\adc6f7091c7217afa257b9498518ee26\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\36526a133379ff2b61f4f2aff4d3ee63\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\36526a133379ff2b61f4f2aff4d3ee63\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\abbc40c239cc8625c69827af271ef934\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\abbc40c239cc8625c69827af271ef934\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\GAMER\Desktop\ListaDeComprasApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\GAMER\Desktop\ListaDeComprasApp\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\d529981379adb128432c3bd53ac1cf38\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\648c95d7896c6bad69b3a308a6aae7d4\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\648c95d7896c6bad69b3a308a6aae7d4\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\88bb666186d63e9968a9ae652d9fbca0\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\88bb666186d63e9968a9ae652d9fbca0\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\d529981379adb128432c3bd53ac1cf38\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\d529981379adb128432c3bd53ac1cf38\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\d529981379adb128432c3bd53ac1cf38\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\d529981379adb128432c3bd53ac1cf38\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\d529981379adb128432c3bd53ac1cf38\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\d529981379adb128432c3bd53ac1cf38\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\GAMER\.gradle\caches\8.13\transforms\d529981379adb128432c3bd53ac1cf38\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\32ca633f9c807bf48b5509430aee051b\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\32ca633f9c807bf48b5509430aee051b\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\32ca633f9c807bf48b5509430aee051b\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+permission#br.com.unaerp.listadecompras.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\32ca633f9c807bf48b5509430aee051b\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\32ca633f9c807bf48b5509430aee051b\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\32ca633f9c807bf48b5509430aee051b\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\32ca633f9c807bf48b5509430aee051b\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\32ca633f9c807bf48b5509430aee051b\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+uses-permission#br.com.unaerp.listadecompras.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\32ca633f9c807bf48b5509430aee051b\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\32ca633f9c807bf48b5509430aee051b\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\648c95d7896c6bad69b3a308a6aae7d4\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\648c95d7896c6bad69b3a308a6aae7d4\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\GAMER\.gradle\caches\8.13\transforms\648c95d7896c6bad69b3a308a6aae7d4\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78

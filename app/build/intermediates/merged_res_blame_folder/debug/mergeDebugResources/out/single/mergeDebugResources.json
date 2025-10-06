@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "br.com.unaerp.listadecompras.app-debug-29:/layout_activity_itens.xml.flat",
+        "source": "br.com.unaerp.listadecompras.app-main-31:/layout/activity_itens.xml"
+    },
+    {
+        "merged": "br.com.unaerp.listadecompras.app-debug-29:/layout_item_item.xml.flat",
+        "source": "br.com.unaerp.listadecompras.app-main-31:/layout/item_item.xml"
+    },
+    {
+        "merged": "br.com.unaerp.listadecompras.app-debug-29:/layout_activity_cadastro.xml.flat",
+        "source": "br.com.unaerp.listadecompras.app-main-31:/layout/activity_cadastro.xml"
+    },
+    {
+        "merged": "br.com.unaerp.listadecompras.app-debug-29:/layout_activity_nova_lista.xml.flat",
+        "source": "br.com.unaerp.listadecompras.app-main-31:/layout/activity_nova_lista.xml"
+    },
+    {
+        "merged": "br.com.unaerp.listadecompras.app-debug-29:/layout_item_lista.xml.flat",
+        "source": "br.com.unaerp.listadecompras.app-main-31:/layout/item_lista.xml"
+    },
+    {
+        "merged": "br.com.unaerp.listadecompras.app-debug-29:/layout_activity_lista_de_compras.xml.flat",
+        "source": "br.com.unaerp.listadecompras.app-main-31:/layout/activity_lista_de_compras.xml"
+    },
+    {
+        "merged": "br.com.unaerp.listadecompras.app-debug-29:/layout_activity_novo_item.xml.flat",
+        "source": "br.com.unaerp.listadecompras.app-main-31:/layout/activity_novo_item.xml"
+    },
+    {
+        "merged": "br.com.unaerp.listadecompras.app-debug-29:/layout_activity_login.xml.flat",
+        "source": "br.com.unaerp.listadecompras.app-main-31:/layout/activity_login.xml"
+    }
+]
